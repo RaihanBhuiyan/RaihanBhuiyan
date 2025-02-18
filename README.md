@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🚀 Abdullah Al Raihan
 
-<!--
-**RaihanBhuiyan/RaihanBhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 **GitHub:** [github.com/RaihanBhuiyan](https://github.com/RaihanBhuiyan)  
+📍 **Location:** Dhaka, Bangladesh  
+📞 **Phone:** 01843157862  
+✉️ **Email:** raihanaal2@gmail.com  
+🔗 **LinkedIn:** [Abdullah Al Raihan](https://www.linkedin.com/in/your-profile)  
 
-Here are some ideas to get you started:
+## 🔭 Have Worked with the Following Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Languages:**  
+- PHP, Python, JavaScript  
+
+### **Frameworks/CMS:**  
+- Laravel, CodeIgniter, Vue.js,ReactJS, jQuery  
+
+### **Databases & Storage:**  
+- MySQL, PostgreSQL, MS-SQL, MongoDB  
+
+### **Caching & Messaging Systems:**  
+- Redis, RabbitMQ  
+
+### **Version Control:**  
+- Git with Smart Git Flow; used with Bitbucket, GitHub, Gitlab.
+
+### **Frontend Development:**  
+- HTML, CSS, Bootstrap, Tailwind  
+
+### **CI/CD:**  
+-  GitHub Actions,Docker  
+
+### **Testing Tools:**  
+- PHPUnit  
+
+### **Cloud Technologies:**  
+- AWS
+
+### **Software Development Practices:**  
+-  Agile, SCRUM  
+
+## 📌 Business Domains of Experience:
+- Financial Technology (FinTech)  
+- Microfinance Management System (MIS & AIS)  
+- ERP Development Sales  
+- E-commerce
+   
