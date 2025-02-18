@@ -4,7 +4,7 @@
 📍 **Location:** Dhaka, Bangladesh  
 📞 **Phone:** 01843157862  
 ✉️ **Email:** raihanaal2@gmail.com  
-🔗 **LinkedIn:** [Abdullah Al Raihan](https://www.linkedin.com/in/your-profile)  
+🔗 **LinkedIn:** [Abdullah Al Raihan](www.linkedin.com/in/abdullah-al-raihan-9b0667150)  
 
 ## 🔭 Have Worked with the Following Technologies:
 
